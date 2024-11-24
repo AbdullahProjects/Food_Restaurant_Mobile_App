@@ -6,16 +6,18 @@ Welcome to the **Restaurant Mobile App** repository! This app allows users to br
 ---
 
 ## Demo Video
-![App Demo](https://drive.google.com/file/d/14gD4IXtNoJVHJ9YnVoHM3VniGpUK30Cf/view?usp=sharing)
 
+[![Watch the video](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/splash%20view.jpg)](https://drive.google.com/file/d/14gD4IXtNoJVHJ9YnVoHM3VniGpUK30Cf/view?usp=sharing)
+
+> _Click on the image above to watch the demo video_
 
 ## Features
 
-- **User Authentication**: Secure sign-up and sign-in using Firebase.
+- **User Authentication**: Secure sign-up and sign-in(with Email and Google) using Firebase.
 - **Home View**: Displays top restaurant deals and popular menu items.
-- **Menu View**: Complete menu browsing experience with categories.
-- **Cart Management**: Add, remove, and adjust items before checkout.
-- **Profile Management**: View and edit user details, including orders.
+- **Menu View**: Show categories, user can easily select or approach to specific food by filtering.
+- **Shopping View**: Show tabbar view contains Cart foods, Wishlist foods, Order history. User can also remove food items from Cart and Wishlist easily.
+- **Profile Management**: View and edit user details.
 
 ---
 
@@ -32,22 +34,22 @@ Welcome to the **Restaurant Mobile App** repository! This app allows users to br
 ## Screenshots
 
 ### 1. Signup View
-![Signup](https://via.placeholder.com/300x600?text=Signup+Screenshot)
+![Signup](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/sign%20up.jpg)
 
 ### 2. Signin View
-![Signin](https://via.placeholder.com/300x600?text=Signin+Screenshot)
+![Signin](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/sign%20in.jpg)
 
 ### 3. Home View
-![Home](https://via.placeholder.com/300x600?text=Home+Screenshot)
+![Home](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/home%20view.jpg)
 
 ### 4. Menu View
-![Menu](https://via.placeholder.com/300x600?text=Menu+Screenshot)
+![Menu](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/menu%20view.jpg)
 
-### 5. Cart View
-![Cart](https://via.placeholder.com/300x600?text=Cart+Screenshot)
+### 5. Shopping View(include cart, wishlist, order history)
+![Shppping](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/shopping%20view.jpg)
 
 ### 6. Profile View
-![Profile](https://via.placeholder.com/300x600?text=Profile+Screenshot)
+![Profile](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/profile%20view.jpg)
 
 ---
 
@@ -58,3 +60,15 @@ Follow these steps to get the app running on your local machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/restaurant-app.git
+   
+2. Navigate to the project directory:
+   ```bash
+   cd restaurant-app
+   
+3. Install dependencies:
+   ```bash
+   flutter pub get
+
+4. Run the app:
+   ```bash
+   flutter run
