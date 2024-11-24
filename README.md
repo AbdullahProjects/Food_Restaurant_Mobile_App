@@ -5,18 +5,13 @@ Welcome to the **Restaurant Mobile App** repository! This app allows users to br
 
 ---
 
-
-<div style="text-align: center; background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
-
 ## Demo Video
 
 <a href="https://drive.google.com/file/d/14gD4IXtNoJVHJ9YnVoHM3VniGpUK30Cf/view?usp=sharing" target="_blank">
   <img src="[https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/splash%20view.jpg](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/splash%20view.jpg)" alt="Watch the video" style="width:50%; height:auto; border: 2px solid #ddd; border-radius: 10px;">
 </a>
-
 > _Click on the image above to watch the demo video._
 
-</div>
 
 
 ## Features
