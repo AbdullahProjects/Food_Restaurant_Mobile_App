@@ -40,22 +40,44 @@ Welcome to the **Restaurant Mobile App** repository! This app allows users to br
 ## Screenshots
 
 ### 1. Signup View
-![Signup](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/sign%20up.jpg)
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/sign%20up.jpg" alt="Signup View" style="width: 20%; height: auto;">
+</div>
+
+---
 
 ### 2. Signin View
-![Signin](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/sign%20in.jpg)
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/sign%20in.jpg" alt="Signin View" style="width: 20%; height: auto;">
+</div>
+
+---
 
 ### 3. Home View
-![Home](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/home%20view.jpg)
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/home%20view.jpg" alt="Home View" style="width: 20%; height: auto;">
+</div>
+
+---
 
 ### 4. Menu View
-![Menu](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/menu%20view.jpg)
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/menu%20view.jpg" alt="Menu View" style="width: 20%; height: auto;">
+</div>
 
-### 5. Shopping View(include cart, wishlist, order history)
-![Shppping](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/shopping%20view.jpg)
+---
+
+### 5. Shopping View (Includes Cart, Wishlist, Order History)
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/shopping%20view.jpg" alt="Shopping View" style="width: 20%; height: auto;">
+</div>
+
+---
 
 ### 6. Profile View
-![Profile](https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/profile%20view.jpg)
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/profile%20view.jpg" alt="Profile View" style="width: 20%; height: auto;">
+</div>
 
 ---
 
@@ -73,6 +95,10 @@ Follow these steps to get the app running on your local machine:
    
 3. Install dependencies:
    ```bash
+
+## Note:
+
+Code is private!
    flutter pub get
 
 4. Run the app:
