@@ -1,16 +1,13 @@
 # Restaurant Mobile App 🍽️
 
 ## Overview
-Welcome to the **Restaurant Mobile App** repository! This app allows users to browse menus, order food, and manage their profiles seamlessly. It’s designed for both Android and iOS using cutting-edge technologies like **Flutter**, **Dart**, and **Firebase**.
+Welcome to the **Restaurant Mobile App** repository! This app allows users to browse menus, order food, wishlist food, and manage their profiles seamlessly. It’s designed for both Android and iOS using cutting-edge technologies like **Flutter**, **Dart**, and **Firebase**.
 
 ---
 
 ## Demo Video
-![App Demo](https://via.placeholder.com/600x300?text=Your+App+Video+Link+Here)
+![App Demo](https://drive.google.com/file/d/14gD4IXtNoJVHJ9YnVoHM3VniGpUK30Cf/view?usp=sharing)
 
-> _Upload a demo video showcasing your app or link a YouTube video._
-
----
 
 ## Features
 
