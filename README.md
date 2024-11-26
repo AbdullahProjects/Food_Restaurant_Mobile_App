@@ -63,23 +63,79 @@ The purpose of creating this app is to show the all food items that restaurant i
 
 ---
 
-### 4. Menu View
+### 4. Food Details
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/Food%20item%20details.jpg" alt="Home View" style="width: 20%; height: auto; border: 2px solid black;">
+</div>
+
+---
+
+### 5. Food Details Second View
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/Food%20item%20details%202.jpg" alt="Home View" style="width: 20%; height: auto; border: 2px solid black;">
+</div>
+
+---
+
+### 6. Menu View
 <div align="center">
   <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/menu%20view.jpg" alt="Menu View" style="width: 20%; height: auto; border: 2px solid black;">
 </div>
 
 ---
 
-### 5. Shopping View (Includes Cart, Wishlist, Order History)
+### 7. Shopping View (Includes Cart, Wishlist, Order History)
 <div align="center">
   <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/shopping%20view.jpg" alt="Shopping View" style="width: 20%; height: auto; border: 2px solid black;">
 </div>
 
 ---
 
-### 6. Profile View
+### 8. My Cart
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/My%20cart.jpg" alt="Profile View" style="width: 20%; height: auto; border: 2px solid black;">
+</div>
+
+---
+
+### 9. My Wishlist
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/My%20wishlisht.jpg" alt="Profile View" style="width: 20%; height: auto; border: 2px solid black;">
+</div>
+
+---
+
+### 10. My Orders
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/My%20orders.jpg" alt="Profile View" style="width: 20%; height: auto; border: 2px solid black;">
+</div>
+
+---
+
+### 11. Verify Phone Number
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/Verify%20phone%20number.jpg" alt="Profile View" style="width: 20%; height: auto; border: 2px solid black;">
+</div>
+
+---
+
+### 12. Order Details
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/Order%20details.jpg" alt="Profile View" style="width: 20%; height: auto; border: 2px solid black;">
+</div>
+
+---
+
+### 13. Profile View
 <div align="center">
   <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/profile%20view.jpg" alt="Profile View" style="width: 20%; height: auto; border: 2px solid black;">
+</div>
+
+---
+
+### 14. Edit Profile Details
+<div align="center">
+  <img src="https://github.com/AbdullahProjects/Food_Restaurant_Mobile_App/blob/main/Images/Edit%20profile.jpg" alt="Profile View" style="width: 20%; height: auto; border: 2px solid black;">
 </div>
 
 ---
